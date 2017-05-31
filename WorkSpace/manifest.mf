@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.bioalg.workspace
+OpenIDE-Module-Layer: org/bioalg/workspace/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/bioalg/workspace/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

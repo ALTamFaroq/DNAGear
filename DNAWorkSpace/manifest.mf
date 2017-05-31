@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.bioalg.dnaworkspace
+OpenIDE-Module-Localizing-Bundle: org/bioalg/dnaworkspace/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
